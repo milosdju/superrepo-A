@@ -1,0 +1,6 @@
+[submodule "libs/B"]
+	path = libs/B
+	url = https://github.com/milosdju/superrepo-B
+[submodule "libs/C"]
+	path = libs/C
+	url = https://github.com/milosdju/superrepo-C
